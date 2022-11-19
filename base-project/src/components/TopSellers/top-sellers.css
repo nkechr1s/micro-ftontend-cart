@@ -1,0 +1,32 @@
+#top-sellers-component-container {
+  background: #f7f7f7;
+  padding-top: 10px;
+}
+
+div.top-sellers-list {
+  padding: 20px 35px;
+}
+
+div.top-seller-block {
+  border: 1px solid #c7c7c7;
+  margin-bottom: 2px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+span.top-seller-name {
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+
+span.top-seller-amount {
+  color: #7d7d7d;
+  width: 95px;
+}
+
+h3.top-sellers-title {
+  margin-left: 10px;
+}
