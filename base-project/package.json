@@ -9,8 +9,8 @@
   },
   "license": "MIT",
   "author": {
-    "name": "George Iliadis",
-    "email": "george.iliadis.91@gmail.com"
+    "name": "Nikos Kechris",
+    "email": "info@nikoskechris.com"
   },
   "devDependencies": {
     "@babel/core": "7.9.6",
